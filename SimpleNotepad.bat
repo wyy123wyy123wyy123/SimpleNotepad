@@ -1,0 +1,1 @@
+java -Xmx4096M -splash:yuanshen_logo.ico SimpleNotepad.java
